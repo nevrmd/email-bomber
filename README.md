@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/github/last-commit/911whatsyouremergency/email-bomber?color=blue&label=Last%20commit">
 </p>
 
-#№ Disclamer
+## Disclamer
 Don't use this app for any bad things. This app should only be used to test your emails.
 ## :interrobang: How to use it?
 - Turn on <a href="https://www.google.com/settings/security/lesssecureapps">less secure applications</a> in your google account (do not fogot to turn off 2-step verification).
